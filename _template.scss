@@ -1,0 +1,155 @@
+html, 
+body,
+.body{
+  background: #e4e5ea;
+  background-color: #e4e5ea;
+}
+
+.header{
+  background: #efece7;
+  background-color:  #efece7;
+  .columns{
+    padding-bottom: 20px;
+    padding-right: 20px !important;
+    padding-left: 20px !important;
+    padding-top: 20px;
+    .logo{
+      color: #ffffff;
+      width: 300px;
+      padding-right: 100px;
+    }
+    .menu-icon{
+      padding-left: 20px;
+      padding-right: 100px;
+    }
+    .user_icon{
+      width: 100px;
+    }
+  }
+}
+
+
+.address-area{
+  background: #efece7;
+  background-color:  #efece7;
+  .columns{
+    h4{
+      text-align: center;
+      padding-top: 25px;
+      font-weight: bold;
+    }
+    p{
+      font-size: 18px;
+      text-align: center;
+      padding-bottom: 10px;
+      border-bottom: solid 1px #9a9a9a;
+    }
+  }
+}
+
+.content{
+    background: #efece7;
+    background-color:  #efece7;
+    .columns{
+      span{
+        padding-left: 20px !important;
+        font-weight: 300;
+        font-family: Helvetica;
+      }
+      p{
+        padding-top: 25px;
+        padding-left: 20px;
+        font-weight: 300;
+        font-family: Helvetica;
+        hyphens: none;
+      }
+    }
+  }
+  
+  .offer{
+  .columns{
+    background: #efece7;
+    background-color:  #efece7;
+    }
+  p{
+    font-family: Helvetica;
+    font-weight: 300;
+    }
+  span{
+    font-weight: bold;
+    padding-left: 150px;
+  }
+}
+
+.items{
+    background: #efece7;
+    background-color:  #efece7;
+  img{
+    padding-top: 15px;
+    margin: 0 auto;
+    width: 500px;
+  }
+}
+
+.details{
+  background: #efece7;
+  background-color:  #efece7;
+  img{
+    padding-top: 15px;
+    margin: 0 auto;
+    width: 500px;
+    padding-bottom: 50px;
+  }
+}
+
+
+
+.footer-top{
+  background: #efece7;
+  background-color:  #efece7;
+ & > tbody > tr > th{
+   padding-left: 30px !important;
+   padding-right: 30px !important;
+   border-top: solid 1px #000000;
+ }
+ img{
+   padding-top: 15px;
+   width: 120px;
+ }
+ .get-app{
+  border-right: solid 1px #93918e;
+ }
+ .app-store{
+  border-right: solid 1px #93918e;
+ }
+}
+
+.footer-social{
+  background: #efece7;
+  background-color:  #efece7;
+  border-top: solid 1px #93918e;
+  border-bottom: solid 1px #93918e;
+  .logo-section{
+    img{
+      padding-top: 10px;
+      width: 100px;
+      padding-left: 150px;
+      
+    }
+  }
+  .social-icons{
+    img{
+      padding-top: 10px;
+      width: 120px;
+      display: block;
+      margin: 0 auto;
+      padding-right: 150px;
+    }
+  }
+}
+
+.place-holder{
+  background: #efece7;
+  background-color:  #efece7;
+}
+  
